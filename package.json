@@ -1,0 +1,16 @@
+{
+  "name": "ts-gulpfile-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "peerDependencies": {
+    "cli-components-build": "^1.1.0",
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bryn austin bellomy <bryn.bellomy@gmail.com>",
+  "license": "ISC"
+}
